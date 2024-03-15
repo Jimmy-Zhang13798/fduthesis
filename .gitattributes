@@ -1,5 +1,0 @@
-*     text eol=lf
-*.bat text eol=crlf
-*.pdf binary
-*.png binary
-*.lvt linguist-language=tex
