@@ -1,6 +1,7 @@
-# 复旦信院24毕业盲审格式调整版-基于Xiangdong Zeng的fduthesis
+# 复旦信院24盲审格式 英文论文模板
 
-[原github](https://github.com/stone-zeng/fduthesis)
+
+[基于Xiangdong Zeng的fduthesis修改](https://github.com/stone-zeng/fduthesis)
 
 
 本调整版目前只适用于英文版；中文版后续会补充；
