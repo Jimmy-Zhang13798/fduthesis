@@ -4,7 +4,7 @@
 [基于Xiangdong Zeng的fduthesis修改](https://github.com/stone-zeng/fduthesis)
 
 
-本fduthesis调整版目前只适用于英文版；中文版后续会补充；
+本fduthesis调整版目前只适用于英文版；
 
 实际上本模板不仅适用于信院，我们基于很多要求进行了调整，需要英文写作的复旦学子，可尝试使用；
 
