@@ -24,9 +24,8 @@
 
 1. 下载本项目
 
-2. 上传至overleaf，overleaf设置如下：
+2. 将 zip 文件上传至overleaf，overleaf设置如下：
 ![overleaf-setup](overleaf-setup.png)
-
 
 ## 贡献者
 
