@@ -1,8 +1,8 @@
-# Fudan Thesis Template (See Chinese below)
+# Fudan Thesis Template, Enhanced version (See Chinese below)
 
 To improve the success rate of blind reviews, our school has strengthened format checks in 2024.
 
-As a result, we have compiled this most refined version to date.
+As a result, we have compiled this most refined version to date. The formatting details almost perfectly meet the school's requirements.
 
 [Modified based on Xiangdong Zeng’s fduthesis](https://github.com/stone-zeng/fduthesis)
 
@@ -42,7 +42,7 @@ This version was modified from fduthesis by the following contributors:
 
 为了提高盲审通过率，24年对格式审核力度加强。
 
-最终我们整理出这个目前最精细的版本。
+最终我们整理出这个目前最精细的版本。已帮助诸多同学在格式上完美符合学校要求。
 
 
 [基于Xiangdong Zeng的fduthesis修改](https://github.com/stone-zeng/fduthesis)
