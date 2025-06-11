@@ -1,4 +1,4 @@
-# fudan thesis template See Chinese below
+# Fudan Thesis Template (See Chinese below)
 
 To improve the success rate of blind reviews, our school has strengthened format checks in 2024.
 
